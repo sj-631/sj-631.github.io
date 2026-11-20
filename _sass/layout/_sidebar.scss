@@ -155,21 +155,29 @@
     height: auto;
   }
 
-  img {
+  .author__avatar-frame {
+    display: block;
     width: 72px;
     height: 72px;
-    max-width: 175px;
     border-radius: 50%;
-    aspect-ratio: 1;
-    object-fit: cover;
-    object-position: center 45%;
+    overflow: hidden;
 
     @include breakpoint($large) {
       width: 175px;
       height: 175px;
-      padding: 5px;
       border: 1px solid var(--global-border-color);
     }
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+    object-position: center 45%;
+    transform: scale(1.4);
+    transform-origin: center 45%;
   }
 }
 
