@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Shen Jia"
+title                    : "Shen Jia (Jason)"
 title_separator          : "-"
-name                     : &name "Shen Jia"
+name                     : &name "Shen Jia (Jason)"
 description              : &description "Personal academic website"
 url                      : https://sj-631.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,9 +24,9 @@ repository               : "sj-631/sj-631.github.io"
 author:
   # Biographic information
   avatar           : "shen-jia.jpg"
-  name             : "Shen Jia"
+  name             : "Shen Jia (Jason)"
   pronouns         : # example: "she/her"  
-  bio              : "Trinity College Dublin"
+  bio              : "PhD student in Statistics<br>Trinity College Dublin"
   location         :
   employer         :
   uri              : # URL
