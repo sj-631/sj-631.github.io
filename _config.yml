@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Shen Jia (Jason)"
 title_separator          : "-"
 name                     : &name "Shen Jia (Jason)"
-description              : &description "Personal academic website"
+description              : &description "Shen Jia (Jason), PhD student in Statistics at Trinity College Dublin."
 url                      : https://sj-631.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "shen-jia.jpg"
   name             : "Shen Jia (Jason)"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in Statistics<br>Trinity College Dublin"
+  bio              : "Final-year PhD student in Statistics<br>Trinity College Dublin"
   location         :
   employer         :
   uri              : # URL
