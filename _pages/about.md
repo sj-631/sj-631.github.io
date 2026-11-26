@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Wassup"
+seo_title: "Shen Jia (Jason) | Statistics PhD Student, Trinity College Dublin"
 author_profile: true
 ---
 
