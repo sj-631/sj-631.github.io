@@ -9,6 +9,6 @@ author_profile: true
 
 ## Conference presentations
 
-- **22nd International Vasculitis Workshop** — Melbourne, Australia, 2026. Multiple abstracts accepted for oral and poster presentations.
+- **22nd International Vasculitis Workshop** — Melbourne, Australia, 2026
 - **ADAPT Annual Scientific Conference** — Dublin, Ireland, 2025. Poster presentation.
 - **15th Scientific Meeting of the Classification and Data Analysis Group (CLADAG)** — Naples, Italy, 2025. Oral presentation.
