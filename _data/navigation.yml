@@ -2,4 +2,4 @@ main:
   - title: "Wassup"
     url: /
   - title: "Research"
-    url: /research/
+    url: "/#research"
