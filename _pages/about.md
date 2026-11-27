@@ -1,11 +1,11 @@
 ---
 permalink: /
 title: "Wassup"
-seo_title: "Shen Jia (Jason) | Statistics PhD Student, Trinity College Dublin"
+seo_title: "Shen Jia | Statistics PhD Student, Trinity College Dublin"
 author_profile: true
 ---
 
-I am Shen Jia (Jason), a final-year PhD student in Statistics at Trinity College Dublin, where I was awarded the Trinity Doctorate Research Scholarship in 2023. I work under the supervision of [Dr James Ng](https://www.tcd.ie/scss/people/academic-staff/ngja/) and [Dr David Selby](https://mlgh.net/author/david-selby/), with coordination from [Professor Mark Little](https://www.tcd.ie/research/profiles/?profile=MLITTLE).
+I am Shen Jia, a final-year PhD student in Statistics at Trinity College Dublin, where I was awarded the Trinity Doctorate Research Scholarship in 2023. I work under the supervision of [Dr James Ng](https://www.tcd.ie/scss/people/academic-staff/ngja/) and [Dr David Selby](https://mlgh.net/author/david-selby/), with coordination from [Professor Mark Little](https://www.tcd.ie/research/profiles/?profile=MLITTLE).
 
 My research focuses mainly on clustering and its potential applications in the study of ANCA-associated vasculitis.
 
