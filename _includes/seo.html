@@ -70,6 +70,16 @@ with base_path so the result is always absolute.
 
 {% if canonical_url %}
   <link rel="canonical" href="{{ canonical_url }}">
+  {% if page.url == "/" or page.url == "/index.html" %}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": {{ site.title | jsonify | replace: "<", '\u003c' }},
+        "url": {{ canonical_url | jsonify | replace: "<", '\u003c' }}
+      }
+    </script>
+  {% endif %}
 {% endif %}
 
 {% comment %} Twitter/X card tags are only emitted when the site configures a
