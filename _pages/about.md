@@ -21,3 +21,5 @@ Before my PhD, I completed an MPhil in Population Health Sciences (Health Data S
 - **22nd International Vasculitis Workshop** — Melbourne, Australia, 2026
 - **ADAPT Annual Scientific Conference** — Dublin, Ireland, 2025. Poster presentation.
 - **15th Scientific Meeting of the Classification and Data Analysis Group (CLADAG)** — Naples, Italy, 2025. Oral presentation.
+
+I enjoy playing golf and card games in my spare time.
